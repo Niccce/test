@@ -7,7 +7,10 @@ https://niccce.github.io/test/
 ### 林峯(Raymond Lam)
 #### Hongkong artist
 
-* ##### 他的[百度百科](https://baike.baidu.com/item/%E6%9E%97%E5%B3%B0/6283?fr=aladdin)
-* ##### 他的[微博](https://weibo.com/u/6078615208)
-* ##### 他的照片 
+> ##### [维基百科](https://zh.m.wikipedia.org/zh-tw/林峯)
+> ##### [百度百科](https://baike.baidu.com/item/%E6%9E%97%E5%B3%B0/6283?fr=aladdin)
+>> ##### His [Facebook](https://m.facebook.com/Lam-Fung-official-342296822916127/)
+>> ##### His [Instagram](https://www.instagram.com/lam_fung_official)
+>> ##### His [Weibo](https://weibo.com/u/6078615208)
+* ##### His photo 
 ![image](https://raw.githubusercontent.com/Niccce/test/master/idol.jpg)
